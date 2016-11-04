@@ -109,7 +109,7 @@ hr {
     background-image: url(../images/search_bar_bg_small.png);
 }
 .kontent {
-    margin: auto;
+    margin-left: 200px;
     width: 800px;
 }
 .container {
